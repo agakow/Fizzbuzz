@@ -8,7 +8,8 @@
 
 ## How to use ##
 
-```2.3.1 :001 > require './lib/fizzbuzz'
+```
+2.3.1 :001 > require './lib/fizzbuzz'
  => true
 2.3.1 :002 > fizzbuzz 1
  => 1
@@ -19,4 +20,5 @@
 2.3.1 :005 > fizzbuzz 5
  => "buzz"
 2.3.1 :006 > fizzbuzz 15
- => "fizzbuzz"```
+ => "fizzbuzz"
+ ```
